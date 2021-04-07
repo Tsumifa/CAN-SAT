@@ -1,0 +1,14 @@
+{
+	"title": "LC-SAT Traitement de donnees",
+	"loadData": "Charger Des Donnees : ",
+	"keyInput": "Entrer la clef de decryptage :",
+	"folderInput": "Choisir un fichier :",
+	"browse": "Rechercher",
+	"decrypt": "Decrypter",
+	"graphs": "Graphs",
+	"video": "Video",
+	"gps": "GPS",
+	"planisphere": "Planisphere",
+	"schematic": "Schematique",
+	"satellite": "Satellite"
+}

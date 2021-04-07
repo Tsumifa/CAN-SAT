@@ -1,0 +1,14 @@
+{
+	"title": "LC-SAT Data treatment",
+	"loadData": "Load Data : ",
+	"keyInput": "Select key :",
+	"folderInput": "Select a folder :",
+	"browse": "Browse",
+	"decrypt": "Decrypt",
+	"graphs": "Graphiques",
+	"video": "Video",
+	"gps": "GPS",
+	"planisphere": "Planisphere",
+	"schematic": "Schematic",
+	"satellite": "Satellite"
+}

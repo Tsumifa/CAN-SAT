@@ -1,0 +1,10 @@
+{
+	"DATA_PATH": "/res/data/",
+	"SETTINGS_PATH": "/res/data/settings.json",
+	"CONST_PATH": "/res/data/app_const.json",
+	"LANG_PATH": "/res/i18n/",
+	"IMG_PATH": "/res/img/",
+	"OPENCV_RES_PATH": "/res/opencv_res/",
+	"THEME_PATH": "/res/themes/",
+	"FILES_DATA": "/files/"
+}

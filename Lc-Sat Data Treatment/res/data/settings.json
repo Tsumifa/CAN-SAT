@@ -1,0 +1,22 @@
+{
+    "language": "en-us",
+    "theme": "bright",
+    "data_type": [
+    	"data.bin",
+    	"cam.mp4"
+    ],
+    "features": [
+    	{
+    		"name": "videos",
+    		"icon": "video.png"
+    	},
+    	{
+    		"name": "graphs",
+    		"icon": "graphs.png"
+    	},
+    	{	
+    		"name": "gps",
+    		"icon": "gps.png"
+    	}
+    ]
+}

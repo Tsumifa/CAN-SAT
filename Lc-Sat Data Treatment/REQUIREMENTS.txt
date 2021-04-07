@@ -1,0 +1,17 @@
+## MODULES ##
+
+pré-installée:
+
+	- os
+	- sys
+
+interface:
+
+	- pyqt5
+
+analyse:
+
+	- matplotlib
+	- opencv
+	- folium
+	- PyQtWebEngine
