@@ -1,7 +1,7 @@
 # CAN-SAT
 ### Description générale :
 Le CAN-SAT est un concours organisé par l'ESA (Agence Spatiale Européenne) dont le but est de créer un satellite de la taille d'une canette.
-Le dossier est l'application de traitement des données collectées en vol.
+Le dossier contient l'application de traitement des données collectées en vol.
 
  **Les Données Collectées et leurs mode d’analyse :**
 | Type de Donnée | Module d'analyse |
